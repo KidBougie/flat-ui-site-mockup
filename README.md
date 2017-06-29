@@ -1,4 +1,5 @@
 # flat-ui-site-mockup
+Flat Design is a style of design that pre-dated material design that Google pioneered. This style of design is a minimalist response to skeuomorphic design that was pioneered by Apple in their early versions of IOS where everything was very gradient heavy and looked like an actual realistic item.
 
 # Title
 Recreate the following web page
